@@ -6,3 +6,6 @@ __pycache__/
 .virtual_documents/
 .vscode/
 data/outputs/
+SAR_Lab_6/*.tar.xz
+SAR_Lab_6/RidgecrestSenDT71/
+SAR_Lab_6/SanFranSenDT42/
